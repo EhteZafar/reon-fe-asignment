@@ -1,0 +1,5 @@
+export const dataConstants = {
+    SET_DATA_REQUEST: 'SET_DATA_REQUEST',
+    SET_DATA_SUCCESS: 'SET_DATA_SUCCESS',
+    SET_DATA_FAILURE: 'SET_DATA_FAILURE',
+  };
